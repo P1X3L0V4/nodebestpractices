@@ -1,9 +1,9 @@
 [✔]: assets/images/checkbox-small-blue.png
 
-# Node.js Best Practices
+# Node.js - Najlepsze praktyki
 
 <h1 align="center">
-  <img src="assets/images/banner-2.jpg" alt="Node.js Best Practices">
+  <img src="assets/images/banner-2.jpg" alt="Node.js - Najlepsze praktyki">
 </h1>
 
 <br/>
@@ -14,31 +14,31 @@
 
 <br/>
 
-[![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
+[![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Obserwuj nas na Twitterze!** [**@nodepractices**](https://twitter.com/nodepractices/)
 
 <br/>
 
-Read in a different language: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md), [![BR](/assets/flags/BR.png)**BR**](/README.brazilian-portuguese.md) [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** and ![TR](/assets/flags/TR.png)**TR** in progress!)](#translations)
+Czytaj w innych językach: [![CN](/assets/flags/CN.png)**CN**](/README.chinese.md), [![BR](/assets/flags/BR.png)**BR**](/README.brazilian-portuguese.md) [(![ES](/assets/flags/ES.png)**ES**, ![FR](/assets/flags/FR.png)**FR**, ![HE](/assets/flags/HE.png)**HE**, ![KR](/assets/flags/KR.png)**KR**, ![RU](/assets/flags/RU.png)**RU** i ![TR](/assets/flags/TR.png)**TR** w trakcie tłumaczenia!)](#translations)
 
 <br/>
 
-###### Our steering committee member, Yoni Goldberg, will speak this month about Node.js practices at [Verona](https://2019.nodejsday.it), [Kharkiv](https://kharkivjs.org) and Atlanta (more details soon)
+###### Członek naszego komitetu wykonawczego, Yoni Goldberg, będzie mówił w tym miesiącu o praktykach dotyczących Node.js w [Weronie](https://2019.nodejsday.it), [Charkowie](https://kharkivjs.org) i Atlancie (wkrótce więcej szczegółów)
 
-###### Built and maintained by our [Steering Committee](#steering-committee) and [Collaborators](#collaborators)
+###### Zbudowany i utrzymywany przez nasz [komitet wykonawczy](#steering-committee) i [współpracowników](#collaborators)
 
-# Latest Best Practices and News
+# Najnowsze najlepsze praktyki i aktualności
 
-- **New best practice:** 4.3: [Testing with the AAA pattern](#4-testing-and-overall-quality-practices)
+- **Nowe praktyki:** 4.3: [Testowanie za pomocą wzora AAA](#4-testing-and-overall-quality-practices)
 
-- **We seek typescript contributors:** want to help contributing TypeScript examples? please approach by opening an issue
+- **Szukamy kontrybutorów typescript:** chcesz pomóc w tworzeniu przykładów w TypeScript? Prosimy o stworzenie nowego wątku w sekcji Issues.
 
-- **All Contributors:** We're now using the [All Contributors Spec](https://allcontributors.org/) to recognise all types of contributions to the repo. Thanks again for all our current, and future contributors ♥️
+- **Wszyscy kontrybutorzy:** Używamy teraz specyfikacji [All Contributors Spec](https://allcontributors.org/) by rozpoznawać wszystkie typy kontrybucji do repozytorium. Jeszcze raz dziękujemy wszystkim aktualnym i przyszłym kontrybutorom ♥️
 
-- **JavaScript testing best practices:** 🏆 Yoni & friends have launched a new testing best practices repository, with comprehensive and exhaustive JavaScript & Node.js testing best practices. [Check it out here!](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- **Najlepsze praktyki w testowaniu JavaScript:** 🏆 Yoni i przyjaciele uruchomili nowe repozytorium na temat najlepszych praktyk w testowaniu JavaScript i Node.js. [Sprawdź tutaj!](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 <br/><br/>
 
-# Welcome! 3 Things You Ought To Know First
+# Witaj! 3 rzeczy, które musisz wiedzieć na początku
 
 **1. You are, in fact, reading dozens of the best Node.js articles -** this repository is a summary and curation of the top-ranked content on Node.js best practices, as well as content written here by collaborators
 
